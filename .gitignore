@@ -1,0 +1,5 @@
+data/
+chapters/
+.ipynb_checkpoints/
+NOAA_TAVG.csv
+UFO.csv
